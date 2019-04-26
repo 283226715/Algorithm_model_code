@@ -1,1 +1,1 @@
-test My algorithm code, written by C++. 
+My algorithm code, written by C++. 
